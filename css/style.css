@@ -80,4 +80,15 @@ h3 {
 }
 .food{
 	margin-top: 23px;
+	margin-bottom: 5px;
+	color: #5863F8;
+
+}
+.size1 {
+	width: 352px;
+    margin-right: 10px;
+    margin-bottom: 16px;
+}
+.image1 {
+	margin-bottom: 23px;
 }
