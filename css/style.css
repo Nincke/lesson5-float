@@ -1,0 +1,83 @@
+/*section 1*/
+.container {
+	width: 1080px;
+	margin: 0px auto;
+}
+.float-left {
+	float: left;
+}
+.float-right {
+	float: right;
+}
+.text1 {
+	width: 260px;
+	color: #B1B1B1;
+	margin-left: 16px;
+	margin-top: 10px;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+}
+.left-block {
+	background-color: #F8F8F8; 
+	width: 536px; 
+}
+.right-block {
+	background-color: #F8F8F8;
+	width: 536px;
+}
+.up {
+	margin-bottom: 16px;
+	margin-top: 50px;
+}
+h4 {
+	font-size: 14px; 
+	color: #5863F8;
+}
+.size {
+	margin-top: 37px;
+	margin-left: 16px;
+}
+.zoma {
+	margin-top: 82px;
+}
+h2 {
+	font-size: 42px;
+	color: #000000;
+	font-family: 'Poppins', sans-serif;
+	width: 498px;
+}
+h3 {
+	margin-left: 16px;
+	font-family: 'Poppins', sans-serif;
+	width: 193px;
+}
+/*section 2*/
+.image-wraper{
+	text-align: center;
+}
+.clear {
+	clear: both;
+}
+.block2 {
+	padding-right: 16px;
+	padding-left: 16px;
+}
+.block3 {
+	padding-right: 16px;
+	padding-left: 16px;
+}
+.box {
+	width: 352px;
+	background-color: #F8F8F8;
+}
+.zoma1 {
+	margin-top: 90px;
+}
+.title {
+	margin-bottom: 50px;
+	width: 465px;
+	font-family: 'Poppins', sans-serif;
+}
+.food{
+	margin-top: 23px;
+}
